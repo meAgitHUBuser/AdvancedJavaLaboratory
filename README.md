@@ -22,11 +22,12 @@ This repository contains Java programs demonstrating various functionalities:
 
 ## How to Clone the Repository
 
-1. Open your terminal or command prompt.
-2. Navigate to the directory where you want to clone the repository. You can use the `cd` command for this.
-3. Use the following command to clone the repository:
+1. **Open your terminal or command prompt.**
+2. **Navigate to the directory where you want to clone the repository.**
+    You can use the `cd` command for this.
+3. **Use the following command to clone the repository:**
    `git clone https://github.com/meAgitHUBuser/AdvancedJavaLaboratory.git`
-4. Once the cloning process is complete, you will have a directory named `AdvancedJavaLaboratory` containing the source code.
+4. **Once the cloning process is complete, you will have a directory named `AdvancedJavaLaboratory` containing the source code.**
 
 ## Further Exploration
 
