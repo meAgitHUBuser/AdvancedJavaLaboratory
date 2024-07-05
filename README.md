@@ -1,4 +1,4 @@
-## AdvancedJavaLaboratory
+# AdvancedJavaLaboratory
 
 This repository contains Java programs demonstrating various functionalities:
 
